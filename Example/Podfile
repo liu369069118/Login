@@ -1,9 +1,8 @@
-use_frameworks!
 
 platform :ios, '9.0'
 
 target 'Login_Example' do
-  pod 'Login', :path => '../'
+  pod 'Login', :path => '../', :modular_headers => true
 
   target 'Login_Tests' do
     inherit! :search_paths
