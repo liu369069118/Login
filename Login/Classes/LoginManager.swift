@@ -9,6 +9,8 @@ import UIKit
 
 open class LoginManager: NSObject {
     open func login() {
-        print("login success!")
+        print("LoginManager method send!")
+        let manager = PrivateManager()
+        manager.privateFuncation()
     }
 }
