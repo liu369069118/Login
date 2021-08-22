@@ -1,5 +1,5 @@
 PODS:
-  - Login (0.1.0)
+  - Login (0.2.0)
 
 DEPENDENCIES:
   - Login (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Login: 6ac04a956e20218a9377b2747c1507a3dcecb138
+  Login: 0020839cb8e0439da839bd1a20d0caee2ecea8e5
 
 PODFILE CHECKSUM: 0e6555314b66c96153f650f8ceb84563cb374107
 
